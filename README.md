@@ -11,7 +11,7 @@ Mentor name :Neela Santhosh
 
 Domin:Full Stack Web Development
 
-Duration :February 10th,2025 to March 25th,2025
+Duration :February 20th, 2025 to April 5th, 2025
 # output 
 
 <img width="1440" alt="Image" src="https://github.com/user-attachments/assets/cdfb8fb6-ee63-4237-87d1-d4775d5c3bee" />
